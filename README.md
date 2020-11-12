@@ -5,6 +5,6 @@ To replicate the standard procedure of Data Analysis program. I.e Gather, Clean 
 #Data
 Data here can be gathered from any website, the HTML of data is downloaded.
 # Tools
-##Beautiful Soup - A python library to pull data from HTML or XML files
+Beautiful Soup - A python library to pull data from HTML or XML files
 SQLITE Database - A light weight RDBMS that runs on SQL
-#D3.js- It is JavaScript library for manipulating documents based on data
+D3.js- It is JavaScript library for manipulating documents based on data
